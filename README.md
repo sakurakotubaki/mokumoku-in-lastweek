@@ -4,7 +4,7 @@
     - DevToolsの活用方法
 - SwiftUIを使用したiOSアプリ開発に興味がある
     - Viewを作ってみる
-    - xocdeの使い方
+    - xcodeの使い方
 - TypeScript & Next.js で認証周り を触ってみたい
     - Clerkを使うと簡単に実装できる
 - FastAPI + Python で簡単バックエンドを立ち上げてみたい
