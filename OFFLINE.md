@@ -16,6 +16,7 @@
 
 - フリーランスや起業について
 - Flutter に興味がある
+- React Native Expo に興味がある
 - SwiftUI を使用した iOS アプリ開発に興味がある
 - TypeScript & Next.js で認証周り を触ってみたい
 - FastAPI + Python で簡単バックエンドを立ち上げてみたい
