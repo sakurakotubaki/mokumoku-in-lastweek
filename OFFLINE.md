@@ -18,8 +18,14 @@
 - Flutter に興味がある
 - React Native Expo に興味がある
 - SwiftUI を使用した iOS アプリ開発に興味がある
-- TypeScript & Next.js で認証周り を触ってみたい
-- FastAPI + Python で簡単バックエンドを立ち上げてみたい
+- Jetpack Composeを使用したコーディング
+- TypeScriptを使用したフロントエンド、バックエンドでの開発
+	- FE: Next.js/React
+	- BE: Nest.js/Express/Deno/Cloud Functions
+- 現場でテストコードって書いてるの？、そもそもテストとは？？？
+	- UnitTest
+	- WidgetTest
+	- 結合テスト
 - 黙々コーディング・雑談どれも歓迎
 - 仕事で使っている生成 AI の活用について
 
